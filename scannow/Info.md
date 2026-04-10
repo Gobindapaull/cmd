@@ -1,0 +1,3 @@
+- sfc /scannow
+- Run as administrator
+- Windows found corrupt files and repaired them
